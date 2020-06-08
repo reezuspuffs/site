@@ -1,11 +1,9 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, East Brunswick High School
+  from: 2016
+  to: 2020
+  description: It was here that my passion and drive for graphic design floruished. On top of balancing schoolwork,
+  I was able to take away skills learned to build my social media presence online and thus spread my designs
+  all across the internet. 
 
 - title: Software Engineer, Google, UK
   from: 2018
