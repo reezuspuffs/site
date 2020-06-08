@@ -1,0 +1,11 @@
+- name: Final Cut Pro
+  percentage: 98
+  color: danger
+
+- name: After Effects
+  percentage: 85
+  color:
+
+- name: Logic Pro X
+  percentage: 80
+  color: dark
