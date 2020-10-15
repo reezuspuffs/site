@@ -1,9 +1,9 @@
 ---
-name: Code Club Logo
-tools: [Illustrator, Photoshop]
-image: https://i.imgur.com/njGmuq7.jpg
-description: Logo designed for the Code Club within East Brunswick High School.
+name: Urbanpapers
+tools: [Illustrator, Photoshop, Love]
+image: https://i.imgur.com/i5DeLok.png
+description: Custom built website to showcase psychadelic prints and offer custom work per request. Prime freelancing initiative.
 ---
 # Code Club Logo
 
-![preview](https://i.imgur.com/njGmuq7.jpg)
+![preview](https://i.imgur.com/i5DeLok.png)
